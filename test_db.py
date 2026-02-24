@@ -3,7 +3,7 @@ import mysql.connector
 conn = mysql.connector.connect(
     host = "localhost",
     user = "botuser",
-    password = "password",
+    password = "NewStrongPassword!",
     database = "discord_bot"
 )
 
